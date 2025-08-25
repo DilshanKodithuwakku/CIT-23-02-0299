@@ -75,7 +75,7 @@ CIT-23-02-0299/
 
 ---
 
-## ▶Instructions
+## Instructions
 
 ### 1. Prepare the environment
 ```bash
